@@ -14,43 +14,86 @@ const musicData = [
     artist: "Lukas Graham",
     musicPath: "./code/assets/music/7-Years.mp3",
   },
-  
+
   {
     backgroundImage: "./code/assets/images/poster-2.jpg",
     posterUrl: "./code/assets/images/poster-2.jpg",
-    title: "We Are Going To Be Ok (Master)",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x Jhove",
-    musicPath: "./code/assets/music/music-2.mp3",
+    title: "A Thousand Miles",
+    album: "Legally Blonde",
+    year: 2001,
+    artist: "Vanessa Carlton",
+    musicPath: "./code/assets/music/A Thousand Miles.mp3",
   },
+
   {
     backgroundImage: "./code/assets/images/poster-3.jpg",
     posterUrl: "./code/assets/images/poster-3.jpg",
-    title: "Winter Meadow",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x  juniorodeo",
-    musicPath: "./code/assets/music/music-3.mp3",
+    title: "Forever Young",
+    album: "Synth-pop",
+    year: 1984,
+    artist: "Alphaville",
+    musicPath: "./code/assets/music/Alphaville_Forever_young.mp3",
   },
+
   {
-    backgroundImage: "./code/assets/images/poster-4.jpg",
-    posterUrl: "./code/assets/images/poster-4.jpg",
-    title: "From Where We Started",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./code/assets/music/music-4.mp3",
+    backgroundImage: "./code/assets/images/poster-4.jpeg",
+    posterUrl: "./code/assets/images/poster-4.jpeg",
+    title: "Everything I Do",
+    album: " Robin Hood: Prince of Thieves",
+    year: 1991,
+    artist: "Bryan Adams",
+    musicPath: "./code/assets/music/Everything_I_Do_I_Do_It_For_You.mp3",
   },
+
   {
     backgroundImage: "./code/assets/images/poster-5.jpg",
     posterUrl: "./code/assets/images/poster-5.jpg",
-    title: "Where I Found You",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./code/assets/music/music-5.mp3",
+    title: "Every Breath You Take",
+    album: "Synchronicity",
+    year: 1983,
+    artist: "The Police",
+    musicPath: "./code/assets/music/EveryBreathYouTake.mp3",
   },
+
+  {
+    backgroundImage: "./code/assets/images/poster-6.jpeg",
+    posterUrl: "./code/assets/images/poster-6.jpeg",
+    title: "As Long as You Love Me",
+    album: "Backstreet's Back",
+    year: 1997,
+    artist: "Backstreet Boys",
+    musicPath: "./code/assets/music/Backstreet-Boys-As-Long-as-You-Love-Me.mp3",
+  },
+
+  {
+    backgroundImage: "./code/assets/images/poster-7.jpg",
+    posterUrl: "./code/assets/images/poster-7.jpg",
+    title: "Always",
+    album: "Cross Road",
+    year: 1994,
+    artist: "Bon Jovi",
+    musicPath: "./code/assets/music/Bon_Jovi_Always.mp3",
+  },
+
+  {
+    backgroundImage: "./code/assets/images/poster-8.jpg",
+    posterUrl: "./code/assets/images/poster-8.jpg",
+    title: "My Heart Will Go On",
+    album: " ",
+    year: 1997,
+    artist: "Celine Dion",
+    musicPath: "./code/assets/music/My_Heart_Will_Go_On.mp3",
+  },
+
+  /*{
+    backgroundImage: "./code/assets/images/poster-8.jpg",
+    posterUrl: "./code/assets/images/poster-8.jpg",
+    title: "Every Breath You Take",
+    album: "Synchronicity",
+    year: 1983,
+    artist: "The Police",
+    musicPath: "./code/assets/music/EveryBreathYouTake.mp3",
+  },*/
 ];
 
 
