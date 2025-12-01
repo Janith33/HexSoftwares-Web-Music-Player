@@ -85,15 +85,6 @@ const musicData = [
     musicPath: "./code/assets/music/My_Heart_Will_Go_On.mp3",
   },
 
-  /*{
-    backgroundImage: "./code/assets/images/poster-8.jpg",
-    posterUrl: "./code/assets/images/poster-8.jpg",
-    title: "Every Breath You Take",
-    album: "Synchronicity",
-    year: 1983,
-    artist: "The Police",
-    musicPath: "./code/assets/music/EveryBreathYouTake.mp3",
-  },*/
 ];
 
 
